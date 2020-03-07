@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "name": "Hat",
+        "sound": "https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/STYLE%20KITS%20(Hip%20Hop,%20Etc)/DJ%20Mustard%20Hip%20Hop%20Kit/426[kb]dj-mustard-Hat-1.wav.mp3",
+        "letter": "Q",
+        "keyCode": 81
+    },
+    {
+        "id": "2",
+        "name": "Open Hat",
+        "sound": "https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/STYLE%20KITS%20(Hip%20Hop,%20Etc)/DJ%20Mustard%20Hip%20Hop%20Kit/426[kb]dj-mustard-Open-Hat.wav.mp3",
+        "letter": "W",
+        "keyCode": 87
+    },
+    {
+        "id": "3",
+        "name": "Clap",
+        "sound": "https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/STYLE%20KITS%20(Hip%20Hop,%20Etc)/DJ%20Mustard%20Hip%20Hop%20Kit/291[kb]dj-mustard-Clap-1.wav.mp3",
+        "letter": "E",
+        "keyCode": 69
+    },
+    {
+        "id": "4",
+        "name": "Bass",
+        "sound": "https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/STYLE%20KITS%20(Hip%20Hop,%20Etc)/DJ%20Mustard%20Hip%20Hop%20Kit/620[kb]dj-mustard-808-2.wav.mp3",
+        "letter": "A",
+        "keyCode": 65
+    },
+    {
+        "id": "5",
+        "name": "Cow Bell",
+        "sound": "https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/STYLE%20KITS%20(Hip%20Hop,%20Etc)/DJ%20Mustard%20Hip%20Hop%20Kit/639[kb]dj-mustard-808-Cow-Bell.wav.mp3",
+        "letter": "S",
+        "keyCode": 83
+    },
+    {
+        "id": "6",
+        "name": "Crash",
+        "sound": "https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/STYLE%20KITS%20(Hip%20Hop,%20Etc)/DJ%20Mustard%20Hip%20Hop%20Kit/426[kb]dj-mustard-Crash.wav.mp3",
+        "letter": "D",
+        "keyCode": 68
+    },
+    {
+        "id": "7",
+        "name": "Kick",
+        "sound": "https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/STYLE%20KITS%20(Hip%20Hop,%20Etc)/DJ%20Mustard%20Hip%20Hop%20Kit/426[kb]dj-mustard-Kick-2.wav.mp3",
+        "letter": "Z",
+        "keyCode": 90
+    },
+    {
+        "id": "8",
+        "name": "Snare",
+        "sound": "https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/STYLE%20KITS%20(Hip%20Hop,%20Etc)/DJ%20Mustard%20Hip%20Hop%20Kit/426[kb]dj-mustard-Snare-2.wav.mp3",
+        "letter": "X",
+        "keyCode": 88
+    },
+    {  
+        "id": "9",
+        "name": "Tom",
+        "sound": "https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/STYLE%20KITS%20(Hip%20Hop,%20Etc)/DJ%20Mustard%20Hip%20Hop%20Kit/426[kb]dj-mustard-Tom.wav.mp3",
+        "letter": "C",
+        "keyCode": 67
+    }
+]
