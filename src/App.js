@@ -7,7 +7,12 @@ function App() {
   
   return (
     <div id="drum-machine">
-      {keyArr}
+      <h1>Drum Machine</h1>
+      <div className="flex-layout">
+        <div className="flex-layout__container">
+          {keyArr}
+        </div>
+      </div>
       <p id="display">{beat}</p>
     </div>
   )

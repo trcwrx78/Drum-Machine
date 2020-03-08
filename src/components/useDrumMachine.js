@@ -36,14 +36,14 @@ function useDrumMachine() {
 
     const keyArr = keys.map(item => {
         return (
-            <a key={item.id} 
+            <div key={item.id} 
                 name={item.name} 
                 id={item.keyCode} 
                 onClick={handlePress} 
                 className={`drum-pad btn ${buttonToggle && item.keyCode === idCode ? "btn-key" : ""}`}>
               <audio id={item.letter} src={item.sound} className="clip" preload="auto"></audio>
-              {item.letter}
-            </a>
+              <p className="inner-par" id={item.keyCode}>{item.letter}</p>
+            </div>
         )
     })
 
