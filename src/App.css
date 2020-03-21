@@ -25,15 +25,17 @@ h1 {
 }
 
 .flex-layout {
-  display: flex;
+  display: grid;
   justify-content: center;
 }
 
 .flex-layout__container {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-  width: 35vh;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-template-rows: repeat(3, auto);
+  justify-items: center;
+  width: 275px;
+  height: 275px;
 }
 
 .inner-par {
@@ -41,7 +43,7 @@ h1 {
 }
 
 #drum-machine {
-  padding-top: 25vh;
+  padding-top: 15vh;
 }
 
 #display {
